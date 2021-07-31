@@ -1,11 +1,9 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Dollie Garner",
-        "email": "de@minag.me"
-    }, {
-        "id": 2,
-        "name": "Lizzie Nash",
-        "email": "zeb@ecaogduv.sh"
-    }]
+  "users": [
+    {
+      "name": "Leona Ferguson",
+      "email": "wajlapen@vozloc.bg",
+      "id": 3
+    }
+  ]
 }
